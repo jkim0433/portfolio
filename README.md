@@ -18,4 +18,5 @@ Currently, two official plugins are available:
 
 
 -React와 Tailwind CSS 기반으로 구축된 개인 포트폴리오 페이지입니다.
+
 -해당 작업물은 취업용 포트폴리오, 비상업적 목적으로 제작되었습니다.
