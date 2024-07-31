@@ -1,8 +1,5 @@
 # React + Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc)
-
 
 ![readme1](https://github.com/user-attachments/assets/5a37b821-38be-415e-a4e7-0e9c971103c4)
 
