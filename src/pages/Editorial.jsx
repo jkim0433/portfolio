@@ -6,7 +6,7 @@ import axtMagazin3 from "../img/AxtMagazin5.png";
 
 const Editorial = () => {
   return (
-    <Element name="editorial" className="max-w-4xl mx-auto max-h-screen pt-20">
+    <Element name="editorial" className="max-w-4xl mx-auto h-full pt-20">
       <div className="w-full h-full p-4">
         <Link
           to="editorial"
@@ -19,17 +19,17 @@ const Editorial = () => {
         </Link>
         <img
           src={axtMagazin1}
-          alt="Editorial Background"
+          alt="Editorial Image"
           className="w-full pt-20 p-10 bg-cover"
         />
         <img
           src={axtMagazin2}
-          alt="Editorial Background"
+          alt="Editorial Image"
           className="w-full bg-cover"
         />
         <img
           src={axtMagazin3}
-          alt="Editorial Background"
+          alt="Editorial Image"
           className="w-full bg-cover mt-4"
         />
         <div className="pt-10 text-right bg-white">

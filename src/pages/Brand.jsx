@@ -5,7 +5,7 @@ import brandImage2 from "../img/Brand2.png";
 
 const Brand = () => {
   return (
-    <Element name="brand" className="max-w-4xl mx-auto max-h-screen pt-20">
+    <Element name="brand" className="max-w-4xl mx-auto h-full pt-20">
       <div className="w-full h-full pt-20 p-4">
         <Link
           to="brand"
@@ -14,16 +14,16 @@ const Brand = () => {
           className="ml-10 font-semibold text-lg text-stone-600 hover:font-bold cursor-pointer"
         >
           <span aria-hidden="true" className="absolute inset-0" />
-          Brand Design
+          Brand
         </Link>
         <img
           src={brandImage}
-          alt="Editorial Background"
+          alt="Brand Image"
           className="w-full pt-20 p-10 bg-cover"
         />
         <img
           src={brandImage2}
-          alt="Editorial Background"
+          alt="Brand Image"
           className="w-full bg-cover"
         />
         <div className="pt-10 text-right bg-white">

@@ -5,7 +5,7 @@ import graphic2 from "../img/Graphic2.png";
 
 const Graphic = () => {
   return (
-    <Element name="graphic" className="max-w-4xl mx-auto max-h-screen pt-20">
+    <Element name="graphic" className="max-w-4xl mx-auto h-full pt-20">
       <div className="w-full h-screen p-4">
         <Link
           to="graphic"
@@ -18,12 +18,12 @@ const Graphic = () => {
         </Link>
         <img
           src={graphic1}
-          alt="Editorial Background"
+          alt="Graphic Image"
           className="w-full pt-20 p-10 bg-cover"
         />
         <img
           src={graphic2}
-          alt="Editorial Background"
+          alt="Graphic Image"
           className="w-full bg-cover"
         />
         <div className="pt-10 text-right bg-white">
@@ -31,7 +31,7 @@ const Graphic = () => {
             to="mobile"
             smooth={true}
             duration={500}
-            className="cursor-pointer font-semibold text-sm text-yellow-700/70 hover:font-bold cursor-pointer"
+            className="cursor-pointer font-semibold text-sm text-yellow-700/70 hover:font-bold cursor-pointer h-full"
           >
             <span aria-hidden="true" className="absolute inset-0" />
             <span aria-hidden="true">&rarr;</span>
