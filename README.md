@@ -3,9 +3,9 @@
 
 ![readme1](https://github.com/user-attachments/assets/5a37b821-38be-415e-a4e7-0e9c971103c4)
 
-![readme2](https://github.com/user-attachments/assets/aaa9b980-69b2-46d7-b72e-cd3a376b5447)
 
-![readme3](https://github.com/user-attachments/assets/e29bad1e-edb3-4232-94e0-0f64a12fbe8d)
+<img width="836" alt="1" src="https://github.com/user-attachments/assets/7c12e007-9137-4a50-89f7-87cbdadca4c8">
+
 
 
 *제작 과정에서 원 페이지 구성으로 인해 Router를 활용하지 못한 점이 아쉬웠습니다. 향후 프로젝트에서는 페이지 구성을 고려하여 라우팅을 적용할 수 있도록 하겠습니다.
